@@ -62,15 +62,12 @@
 ---
 
 ## 🚀 Projects
-- **[CaseSage: Analysis of Indian Legal Documents](#)** 🏛️  
+- **[CaseSage: Analysis of Indian Legal Documents](https://github.com/c-surendra-kumar/legal-insight-provider)** 🏛️  
   - Legal AI system: Summarization, Case Similarity (+40%), RAG QA (-65% time), Classification (LSTM).  
   - 📄 Published in a **Springer-sponsored International Conference**.  
 
-- **[Stock Market Forecasting](#)** 📈  
+- **[Stock Market Forecasting](https://github.com/c-surendra-kumar/stock-market-analysis-and-forecasting)** 📈  
   - Built GRU-based models on 5 years of stock data, outperforming Logistic Regression & LSTM.  
-
-- **[Drowsiness Detection System](#)** 🚛  
-  - Won **1st Prize @ Code-A-Thon 2023** (Caterpillar Inc.), built with MobileNetv3 + OpenCV + Streamlit.  
 
 ---
 
