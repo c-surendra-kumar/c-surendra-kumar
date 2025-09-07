@@ -7,7 +7,6 @@
 
 ## 🌟 About Me
 - 🧑‍💻 Skilled in **Machine Learning, Deep Learning, NLP, and Full-Stack Development**.  
-- 📊 Experienced in **Research** with publications in Springer-sponsored conferences.  
 - 💡 Strong believer in using AI for **impactful real-world solutions**.  
 
 ---
